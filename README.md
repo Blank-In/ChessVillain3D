@@ -2,7 +2,8 @@
 
 https://github.com/Blank-In/ChessVillain 이 자바 프로젝트를 기반으로 유니티로 다시 만든 3D 버전 
 
-https://play.google.com/store/apps/details?id=com.BlankIn.ChessVillaind
+https://play.google.com/store/apps/details?id=com.BlankIn.ChessVillain
+
 
     2018년 4분기 개발 시작
     2019년 3분기 개발 완료
